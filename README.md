@@ -6,6 +6,7 @@
   <p align="center">
     - 🔭 Atualmente busco novas novas experiências no mundo da tecnologia <br>
     - 🧑‍💻 Estudando C# | .NET
+    - 😊 Tenho experiências em HTML5, CSS3, JavaScript, C# e .NET
   </p>
 
 <div align="center" style="display: inline_block"><br>
