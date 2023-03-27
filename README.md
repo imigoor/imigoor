@@ -1,9 +1,14 @@
-## Olá! Eu sou o Igor André
+<h1 align="center">
+    Olá, Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/igor-andr%C3%A9-08257622b/">Igor André 😃️</a>
+  </h1>
+  
+  <p align="center">
+    - 🔭 Atualmente busco novas novas experiências no mundo da tecnologia <br>
+    - 🧑‍💻 Estudando C# | .NET
+  </p>
 
-- 🔭 Atualmente busco novas novas experiências no mundo da tecnologia
-- 🧑‍💻 Estudando C# | .NET
-
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
@@ -12,7 +17,7 @@
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/guigm_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:imigorgm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-andr%C3%A9-08257622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
