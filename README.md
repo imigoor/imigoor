@@ -9,7 +9,7 @@
     - 😊 Tenho experiências em HTML5, CSS3, C# e .NET
   </p>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imigoor2803&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imigoor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
