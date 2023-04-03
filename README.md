@@ -10,8 +10,8 @@
   </p>
  
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=imigoor&show_icons=true&theme=transparent">
-<img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imigoor&hide_progress=true&theme=transparent"</img>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=imigoor&show_icons=true&theme=transparent">
+<img height="170m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imigoor&hide_progress=true&theme=transparent"</img>
 </div>
        
 <div align="center" style="display: inline_block"><br>
