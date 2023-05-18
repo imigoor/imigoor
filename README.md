@@ -11,7 +11,7 @@
  
 <div align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=imigoor&show_icons=true&theme=transparent">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imigoor&hide_progress=true&theme=transparent"</img>
+
 </div>
        
 <div align="center" style="display: inline_block"><br>
