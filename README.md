@@ -1,12 +1,12 @@
 <h1 align="center">
     Olá, Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/igor-andr%C3%A9-08257622b/">Igor André 😃️</a>
+    <a href="https://www.linkedin.com/in/imigor/">Igor André 😃️</a>
   </h1>
   
   <p align="center">
     - 🔭 Atualmente busco novas novas experiências no mundo da tecnologia <br>
     - 🧑‍💻 Estudando C# | .NET <br>
-    - 😊 Tenho experiências em HTML5, CSS3, Javascript, C# e .NET
+    - 😊 Tenho experiências em C#, Python e Flutter
   </p>
  
 <div align="center">
