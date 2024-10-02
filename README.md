@@ -1,6 +1,6 @@
 <h1 align="center">
     Olá, Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/imigor/">Igor André 😃️</a>
+    <a href="https://www.linkedin.com/in/imigor/">Igor Miranda 😃️</a>
   </h1>
   
   <p align="center">
