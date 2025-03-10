@@ -4,8 +4,7 @@
   </h1>
   
   <p align="center">
-    - 🔭 Atualmente busco novas novas experiências no mundo da tecnologia <br>
-    - 🧑‍💻 Estudando C# | .NET <br>
+    - 🧑‍💻 Desenvolvedor C# | .NET <br>
     - 😊 Tenho experiências em C#, Python e Flutter
   </p>
  
