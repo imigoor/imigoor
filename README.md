@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Software Engineer | Especialista .NET & Ecossistema Microsoft</strong><br>
+  <strong>Desenvolvedor de software | Especialista .NET & Ecossistema Microsoft</strong><br>
   Desenvolvendo sistemas de alta disponibilidade, APIs escaláveis e soluções cloud-native.
 </p>
 
