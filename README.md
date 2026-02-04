@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Back-end .NET | C#</strong><br>
-  Focado na construção de aplicações escaláveis, APIs RESTful e arquiteturas modernas.<br>
-  Formação técnica em Jogos Digitais e cursando Sistemas para Internet no IFPB.
+  <strong>Software Engineer | Especialista .NET & Ecossistema Microsoft</strong><br>
+  Desenvolvendo sistemas de alta disponibilidade, APIs escaláveis e soluções cloud-native.
 </p>
 
 <p align="center">
-  🌱 Atualmente aprimorando conhecimentos em <strong>Azure Cloud</strong> e <strong>Microserviços</strong>.<br>
-  💬 Especialista em resolver problemas complexos com <strong>Clean Architecture</strong> e <strong>Entity Framework</strong>.
+  🛠️ Experiência sólida em <strong>Microsserviços</strong>, <strong>Clean Architecture</strong> e <strong>Domain-Driven Design (DDD)</strong>.<br>
+  ☁️ Domínio em <strong>Azure</strong>, <strong>Entity Framework Core</strong> e persistência de dados com <strong>SQL Server</strong>.<br>
+  🎓 Formação técnica em Programação de Jogos e cursando Sistemas para Internet no IFPB.
 </p>
 
 <div align="center">
@@ -24,8 +24,8 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img alt="Entity Framework" src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 <br>
