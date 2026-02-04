@@ -15,11 +15,6 @@
 </p>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=imigoor&show_icons=true&theme=transparent">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imigoor&layout=compact&theme=transparent">
-</div>
-
-<div align="center">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
